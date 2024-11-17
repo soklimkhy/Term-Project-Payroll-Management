@@ -1,0 +1,25 @@
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\Term Project.exe.config
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\Term Project.exe
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\Term Project.pdb
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Project.csproj.AssemblyReference.cache
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.Login.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.Properties.Resources.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Project.csproj.GenerateResource.cache
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Project.csproj.CoreCompileInputs.cache
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Project.exe
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Project.pdb
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.Home.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCDashboard.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCEmployee.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\EntityFramework.dll
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\EntityFramework.xml
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sokli\source\repos\Term Project\Term Project\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term Pro.9902DDBA.Up2Date
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCBonus.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCDeduction.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCPayroll.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.AddUserControl.UCSalary.resources
+C:\Users\sokli\source\repos\Term Project\Term Project\obj\Debug\Term_Project.Migrations.initModelContext.resources
